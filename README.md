@@ -1,16 +1,10 @@
-# app_sell_valtx
+# Reto 2
 
-A new Flutter project.
+Un reto dado por Gustavo Quino de VALTX
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pantalla 1
+[![Whats-App-Image-2022-10-31-at-11-02-09-PM.jpg](https://i.postimg.cc/mZNMrzFm/Whats-App-Image-2022-10-31-at-11-02-09-PM.jpg)](https://postimg.cc/Yj0jnSRF)
+### Pantalla 2
+[![Whats-App-Image-2022-10-31-at-11-02-09-PM-1.jpg](https://i.postimg.cc/Xq8y1m0R/Whats-App-Image-2022-10-31-at-11-02-09-PM-1.jpg)](https://postimg.cc/dZh1LW36)
